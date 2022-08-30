@@ -1,2 +1,0 @@
-# pretrained-model-dog-classification
- 
